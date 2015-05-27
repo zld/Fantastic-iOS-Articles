@@ -2,7 +2,12 @@
 
 主要记录一些好文的链接
 
+##Runtime
+
+* [Objective-C Runtime](http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime/)
 
 ##CocoaPods
 
-* [http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/)
+* [使用Cocoapods创建私有podspec](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/)
+
+
