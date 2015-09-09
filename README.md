@@ -32,3 +32,6 @@
 
 * [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) iOS、OS X 开源项目及库
 
+##Debug
+* [How Not to Crash](http://inessential.com/hownottocrash) | [CN](http://ifujun.com/yi-wen-how-not-to-crash-ru-he-cai-neng-bu-beng-kui/)
+
