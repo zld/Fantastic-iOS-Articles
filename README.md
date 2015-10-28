@@ -34,6 +34,7 @@
 
 ##Debug
 * [How Not to Crash](http://inessential.com/hownottocrash) | [CN](http://ifujun.com/yi-wen-how-not-to-crash-ru-he-cai-neng-bu-beng-kui/)
+* [LLDB 调试技术](http://swiftcafe.io/2015/09/05/lldb-debug/)
 
 ##Demos
 * [Swift开源项目: TTGEmojiRate的实现](http://tutuge.me/2015/10/25/ttgemojirate-lib/)
