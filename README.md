@@ -20,6 +20,7 @@
 * [UITableView优化技巧](http://longxdragon.github.io/2015/05/26/UITableView%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7/)
 * [优化UITableViewCell高度计算的那些事](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
 * [「iOS应用架构谈 - 系列」view层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
+* [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/?utm_source=tuicool&utm_medium=referral) YYKit作者[ibireme](https://github.com/ibireme)，YYKit里包含一系列优化组件
 
 ##Category
 * [Dive into Category](http://tech.meituan.com/DiveIntoCategory.html)
