@@ -1,25 +1,28 @@
 # iOS Articles
 
-主要记录一些好文的链接
+> 记录一些好文的链接
 
-##Basic
+## Basic
 * [Zen and the Art of the Objective-C Craftsmanship](https://github.com/objc-zen/objc-zen-book) | [CN](https://github.com/oa414/objc-zen-book-cn)
 
-##Memory
+## Architecture
+* [iOS应用层架构之CDD](http://mrpeak.cn/blog/cdd/)
+
+## Memory
 
 * [Objective-C Autorelease Pool 的实现原理](http://blog.leichunfeng.com/blog/2015/05/31/objective-c-autorelease-pool-implementation-principle/)
 
 
-##Runtime
+## Runtime
 
 * [Objective-C Runtime](http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime/)
 
-##Runloop
+## Runloop
 
 * [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
 * [Run Loops I](http://pandara.xyz/2015/12/17/Run%20Loops/) [II](http://pandara.xyz/2015/12/18/runloop2/)
 
-##UI
+## UI
 
 * [「系列」iOS开发UI搭建心得](http://lvwenhan.com/ios/452.html)
 * [UITableView优化技巧](http://longxdragon.github.io/2015/05/26/UITableView%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7/)
@@ -27,23 +30,25 @@
 * [「iOS应用架构谈 - 系列」view层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
 * [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/?utm_source=tuicool&utm_medium=referral) YYKit作者[ibireme](https://github.com/ibireme)，YYKit里包含一系列优化组件
 
-##Category
+## Category
 * [Dive into Category](http://tech.meituan.com/DiveIntoCategory.html)
 
-##CocoaPods
+## CocoaPods
 
 * [使用Cocoapods创建私有podspec](http://blog.wtlucky.com/blog/2015/02/26/create-private-podspec/)
 
-##Libs
+## Libs
 
 * [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) iOS、OS X 开源项目及库
 
-##Debug
+## Debug
 * [How Not to Crash](http://inessential.com/hownottocrash) | [CN](http://ifujun.com/yi-wen-how-not-to-crash-ru-he-cai-neng-bu-beng-kui/)
 * [LLDB 调试技术](http://swiftcafe.io/2015/09/05/lldb-debug/)
 
-##Demos
+## Demos
 * [Swift开源项目: TTGEmojiRate的实现](http://tutuge.me/2015/10/25/ttgemojirate-lib/)
 
-##React Native
+## React Native
 * [React-Native学习指南](https://github.com/ele828/react-native-guide) Collected By [ele828](https://github.com/ele828)
+
+
