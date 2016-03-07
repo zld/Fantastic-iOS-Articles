@@ -6,7 +6,9 @@
 * [Zen and the Art of the Objective-C Craftsmanship](https://github.com/objc-zen/objc-zen-book) | [CN](https://github.com/oa414/objc-zen-book-cn)
 
 ## Architecture
+* [Casa的iOS架构系列](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 * [iOS应用层架构之CDD](http://mrpeak.cn/blog/cdd/)
+* [猿题库 iOS 客户端架构设计](http://gracelancy.com/blog/2016/01/06/ape-ios-arch-design/)
 
 ## Memory
 
