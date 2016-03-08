@@ -17,6 +17,7 @@
 
 ## Runtime
 
+* [谈Runtime机制和使用的整体化梳理](http://www.jianshu.com/p/8916ad5662a2)
 * [Objective-C Runtime](http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime/)
 
 ## Runloop
