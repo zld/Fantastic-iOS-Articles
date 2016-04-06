@@ -25,6 +25,11 @@
 * [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
 * [Run Loops I](http://pandara.xyz/2015/12/17/Run%20Loops/) [II](http://pandara.xyz/2015/12/18/runloop2/)
 
+## GCD
+
+* [Seven's GCD(Grand Central Dispatch)教程](http://www.dreamingwish.com/article/gcdgrand-central-dispatch-jiao-cheng.html)
+
+
 ## UI
 
 * [「系列」iOS开发UI搭建心得](http://lvwenhan.com/ios/452.html)
