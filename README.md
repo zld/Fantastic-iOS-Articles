@@ -29,6 +29,9 @@
 
 * [Seven's GCD(Grand Central Dispatch)教程](http://www.dreamingwish.com/article/gcdgrand-central-dispatch-jiao-cheng.html)
 
+## Network
+* [iOS 原生库对 https 的处理](http://swiftcafe.io/2016/04/16/swift-https/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 
 ## UI
 
