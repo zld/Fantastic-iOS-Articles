@@ -23,7 +23,7 @@
 ## Runloop
 
 * [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
-* [Run Loops I](http://pandara.xyz/2015/12/17/Run%20Loops/) [II](http://pandara.xyz/2015/12/18/runloop2/)
+* [官方文档](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html), [(翻译)Run Loops I](http://pandara.xyz/2015/12/17/Run%20Loops/) [II](http://pandara.xyz/2015/12/18/runloop2/)
 
 ## GCD
 
