@@ -41,6 +41,7 @@
 * [「iOS应用架构谈 - 系列」view层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
 * [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/?utm_source=tuicool&utm_medium=referral) YYKit作者[ibireme](https://github.com/ibireme)，YYKit里包含一系列优化组件
 * [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
+* [iOS8 Layout Margins](http://coding.tabasoft.it/ios/ios8-layout-margins/)
 
 ## Category
 * [Dive into Category](http://tech.meituan.com/DiveIntoCategory.html)
